@@ -36,3 +36,8 @@ int htoi(char s[])
     }
     return n;
 }
+
+int main (){
+    htoi("1234567890");
+    return 0;
+}
